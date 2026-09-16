@@ -7,7 +7,7 @@ Welcome to my JavaScript learning repository! This project contains my daily pra
 ## 📁 Repository Structure
 
 ```text
-javascript-code/
+javascript-programming/
 │
 ├── 1-basics/                      # Fundamental JS concepts
 │   ├── data_types.js             # JS Primitives 
